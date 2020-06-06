@@ -36,6 +36,10 @@ class FlickrSearchCollectionViewController: UICollectionViewController, PhotoCol
         layout?.itemSize = CGSize(width: width, height: width + 80)
         
         self.title = "我的最愛"
+        let test = "test"
+        // 測試push
+        
+        // testtest
         
         
     }
